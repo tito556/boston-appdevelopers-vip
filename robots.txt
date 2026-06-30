@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://boston.appdevelopers.vip/sitemap.xml
